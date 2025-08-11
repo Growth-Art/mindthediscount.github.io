@@ -1,0 +1,19 @@
+site_name: Mind the Discount — Help
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - content.code.copy
+nav:
+  - Overview: index.md
+  - Dashboard: dashboard.md
+  - Discounts: discounts.md
+  - Analytics: analytics.md
+  - Settings: settings.md
+  - Pricing: pricing.md
+  - Help & Support: help.md
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
