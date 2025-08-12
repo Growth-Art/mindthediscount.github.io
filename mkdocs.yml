@@ -1,16 +1,22 @@
 site_name: Mind the Discount — Help
+
 theme:
   name: material
   features:
     - navigation.sections
     - content.code.copy
+
 nav:
   - Overview: index.md
-  - Discounts: discounts.md
+  - Discounts:
+      - discounts.md
+      - "Discount Detail": discount-detail.md
+      - "Design & Publish": design-publish.md
   - Analytics: analytics.md
   - Settings: settings.md
   - Pricing: pricing.md
-  - Help & Support: help.md
+  - "Help & Support": help.md
+
 markdown_extensions:
   - admonition
   - tables
