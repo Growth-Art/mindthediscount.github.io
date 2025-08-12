@@ -18,7 +18,6 @@ Choose the plan that best fits your needs. Upgrade anytime to unlock more featur
 
 1. **New Users:**  
    - Select a plan by clicking the **Select** button under the desired plan.  
-   - If the plan includes a free trial, you won’t be charged until the trial ends.
    
 2. **Existing Subscribers:**  
    - If you are already subscribed to a plan, you will see a green banner confirming your current plan (e.g., *"You are subscribed to the Pro plan"*).  
