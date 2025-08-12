@@ -5,6 +5,10 @@ theme:
   features:
     - navigation.sections
     - content.code.copy
+  palette:
+    - scheme: slate
+      primary: black
+      accent: pink
 
 nav:
   - Overview: index.md
