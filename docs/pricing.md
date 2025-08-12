@@ -6,11 +6,11 @@ Choose the plan that best fits your needs. Upgrade anytime to unlock more featur
 
 ## 💎 Available Plans
 
-| Plan        | Price (Monthly) | Price (Yearly) | Trial Days | Features |
-|-------------|-----------------|----------------|------------|----------|
-| **Free**    | Free            | Free           | —          | - Up to **2500 monthly views**<br>- Unlimited Discount Banners<br>- Live chat & Email support |
-| **Pro**     | $5.99 / 30 days | $59.99/year (**$11 off**) | 7 days | - Up to **20000 monthly views**<br>- Unlimited Discount Banners<br>- Full Accessible Analytics Dashboard<br>- Live chat & Email support |
-| **Enterprise** | $9.99 / 30 days | $99.99/year (**$19 off**) | 7 days | - **Unlimited views**<br>- Unlimited Discount Banners<br>- Full Accessible Analytics Dashboard<br>- Live chat & Email support<br>- Priority Support |
+| Plan        | Price (Monthly) | Price (Yearly) | Features |
+|-------------|-----------------|----------------|----------|
+| **Free**    | Free            | Free                   | - Up to **2500 monthly views**<br>- Unlimited Discount Banners<br>- Live chat & Email support |
+| **Pro**     | $5.99 / 30 days | $59.99/year (**$11 off**) | - Up to **20000 monthly views**<br>- Unlimited Discount Banners<br>- Full Accessible Analytics Dashboard<br>- Live chat & Email support |
+| **Enterprise** | $9.99 / 30 days | $99.99/year (**$19 off**) | - **Unlimited views**<br>- Unlimited Discount Banners<br>- Full Accessible Analytics Dashboard<br>- Live chat & Email support<br>- Priority Support |
 
 ---
 
