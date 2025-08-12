@@ -6,7 +6,10 @@ theme:
     - content.code.copy
 nav:
   - Overview: index.md
-  - Discounts: discounts.md
+    - Discounts:
+      - discounts.md
+      - Discount Detail: discount-detail.md
+      - Design & Publish: design-publish.md
   - Analytics: analytics.md
   - Settings: settings.md
   - Pricing: pricing.md
