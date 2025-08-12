@@ -15,10 +15,17 @@ View plan usage/quota, alerts, quick analytics (impressions/clicks), and publish
 
 ## Analytics Overview
 
-•	Total Views – The total number of times all discount widgets have been displayed.
-•	Unique Views – The number of unique visitors who have seen your discount widgets.
-•	Total Clicks – The total number of clicks on all discount widgets.
-•	Unique Clicks – The number of unique visitors who clicked a discount widget.
+- **Total Views**  
+  The total number of times all discount widgets have been displayed.
+
+- **Unique Views**  
+  The number of unique visitors who have seen your discount widgets.
+
+- **Total Clicks**  
+  The total number of clicks on all discount widgets.
+
+- **Unique Clicks**  
+  The number of unique visitors who clicked a discount widget.
 
 For detailed reports, filters, and historical data, visit the Analytics page in the main menu.
 
