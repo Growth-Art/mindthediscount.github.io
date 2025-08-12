@@ -1,6 +1,6 @@
 # Amount Off Discounts
 
-This page lists all **Amount Off** discounts (both **Percentage** and **Fixed amount**) pulled from your Shopify admin.  
+This page lists all **Amount Off** and **Order** discounts (both **Percentage** and **Fixed amount**) pulled from your Shopify admin.  
 Click any row to open the **Discount Detail** page and **create/customize the Discount Widget** there.
 
 ---
@@ -57,8 +57,8 @@ Click any **row** to open the **Discount Detail** page where you can:
 - Review discount details,
 - **Create / edit the Discount Widget** (design, visibility rules, countdown, etc.).
 
-!!! note "Only Amount Off Discounts are shown here"
+!!! note "Only Amount Off and Order Discounts are shown here"
     This list **excludes** other discount types such as “Buy X Get Y” or “Free Shipping.”  
-    Only **Amount Off — Percentage** and **Amount Off — Fixed amount** discounts appear.
+    Only **Amount Off — Percentage** and **Amount Off — Fixed amount** **Order Discount** discounts appear.
 
 <img width="1230" height="605" alt="Ekran Resmi 2025-08-12 10 24 34" src="https://github.com/user-attachments/assets/d8456f2b-42ad-4873-9a80-f9b1a350f7d2" />
